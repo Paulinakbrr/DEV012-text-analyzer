@@ -8,7 +8,7 @@ métricas específicas sobre caracteres, letras, números, logintud de texto.
 Programado con JavaScript - CSS - HTML
 
 ## Web page
-![Página Web](C:\Users\Paulina\Desktop\Laboratoria\DEV012-text-analyzer-1\image.png)
+![Página analizador de texto](image-1.png)
 
 ## Funcionalidades
 
@@ -39,7 +39,3 @@ resultado en tiempo real a medida que el usuaria escribe su texto:
 3. La aplicación permite limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-  <details><summary>Link</summary><p>
-
-  * [Text Analyzer](https://paulinakbrr.github.io/DEV012-text-analyzer/)
-</p></details>
